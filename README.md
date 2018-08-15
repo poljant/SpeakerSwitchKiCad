@@ -1,0 +1,2 @@
+# SpeakerSwitchKiCad
+PCB Speaker Switch.
