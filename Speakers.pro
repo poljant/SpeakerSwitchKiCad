@@ -59,10 +59,6 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=relays
-LibName31=ESP/kicad-ESP8266-master/ESP8266
-LibName32=templates/d1_mini_kicad/library/wemos_mini
-LibName33=PROJEKTY/AutoKominek0/AutoKominek0-cache
-LibName34=PROJEKTY/Kominek/Kominek-cache
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
