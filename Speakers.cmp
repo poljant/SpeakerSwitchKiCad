@@ -1,0 +1,147 @@
+Cmp-Mod V01 Created by PcbNew   date = wto, 28 sie 2018, 08:12:40
+
+BeginCmp
+TimeStamp = 5B5F8EBE
+Path = /5B5ED14F
+Reference = RL1;
+ValeurCmp = RM84;
+IdModule  = Relays_THT:Relay_DPDT_Finder_40.52;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B5F8EE2
+Path = /5B5ED232
+Reference = RL2;
+ValeurCmp = RM84;
+IdModule  = Relays_THT:Relay_DPDT_Finder_40.52;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B5F54C4
+Path = /5B5F1438
+Reference = D1;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:D_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B5F54DC
+Path = /5B5F1473
+Reference = D2;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:D_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B5F54F1
+Path = /5B6480CE
+Reference = Q1;
+ValeurCmp = S8050;
+IdModule  = TO_SOT_Packages_SMD:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B5F5506
+Path = /5B6483C2
+Reference = Q2;
+ValeurCmp = S8050;
+IdModule  = TO_SOT_Packages_SMD:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B5F5517
+Path = /5B5F226A
+Reference = R1;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B5F5528
+Path = /5B5F23CE
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B5F556E
+Path = /5B5F1B22
+Reference = U1;
+ValeurCmp = WeMos_mini;
+IdModule  = wemos_d1_mini:D1_mini_board;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B5F8E61
+Path = /5B60334C
+Reference = J3;
+ValeurCmp = SAR;
+IdModule  = w_conn_gmkds:gmkds_3-2-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B5F8E3B
+Path = /5B5F6DDD
+Reference = J1;
+ValeurCmp = SR;
+IdModule  = w_conn_gmkds:gmkds_3-2-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B5F8E4E
+Path = /5B60317A
+Reference = J2;
+ValeurCmp = SL;
+IdModule  = w_conn_gmkds:gmkds_3-2-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B5F8E74
+Path = /5B603640
+Reference = J4;
+ValeurCmp = SAL;
+IdModule  = w_conn_gmkds:gmkds_3-2-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B5F8E87
+Path = /5B6036B5
+Reference = J5;
+ValeurCmp = SBR;
+IdModule  = w_conn_gmkds:gmkds_3-2-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B5F8E9A
+Path = /5B60372F
+Reference = J6;
+ValeurCmp = SBL;
+IdModule  = w_conn_gmkds:gmkds_3-2-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B6495AD
+Path = /5B648FB7
+Reference = J7;
+ValeurCmp = 5V;
+IdModule  = w_conn_gmkds:gmkds_3-2-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B939389
+Path = 
+Reference = REF**;
+ValeurCmp = Socket_Strip_Straight_1x08_Pitch2.54mm;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x08_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B9393C0
+Path = 
+Reference = REF**;
+ValeurCmp = Socket_Strip_Straight_1x08_Pitch2.54mm;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x08_Pitch2.54mm;
+EndCmp
+
+EndListe
